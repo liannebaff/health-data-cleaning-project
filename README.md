@@ -6,7 +6,7 @@ Contains patient info including Name, Age, Gender, City, Visit Dates, Diagnosis,
 
 ## Cleaning steps
 
-##### Orginal dataset
+#### Orginal dataset
 
-##### Step 1: Removing duplicates
+#### Step 1: Removing duplicates
 <img width="898" height="316" alt="image" src="https://github.com/user-attachments/assets/12eb4673-6f50-4313-944f-775bb6476a17" />
